@@ -2,7 +2,6 @@
 
 A travel discovery app for exploring popular Indian destinations — built entirely with **Kotlin** and **Jetpack Compose** to showcase custom UI design and motion/animation skills for frontend Android development.
 
-All images used in the app (destination photos, icons) are original/self-sourced and placed in `drawable`.
 
 ---
 
@@ -19,10 +18,17 @@ All images used in the app (destination photos, icons) are original/self-sourced
 ## 📱 Screenshots
 
 | Home Screen | Destination Detail | Booking Confirmation |
-|---|---|---|
+|<img width="717" height="1600" alt="image" src="https://github.com/user-attachments/assets/e91273ce-2f5b-4310-b4b5-f4e183e58138" />
+|<img width="717" height="1600" alt="image" src="https://github.com/user-attachments/assets/15cc0ba6-79d3-4822-80b2-e5641e0b0d73" />
+|<img width="717" height="1600" alt="image" src="https://github.com/user-attachments/assets/5cfd12f1-6cd3-4193-a673-d3f5266f14eb" />
+||<img width="1080" height="2408" alt="image" src="https://github.com/user-attachments/assets/d945b88f-a908-4c5b-ad86-e7652e0420b9" />
+|
 | ![Home]() | ![Detail]() | ![Confirmation]() |
 
-> 🎥 **[Watch the full demo →]()**
+> 🎥 **[→](https://github.com/user-attachments/assets/
+
+https://github.com/user-attachments/assets/552024fe-9ff8-4171-8322-092011abeb7a
+)**
 
 ---
 
@@ -53,6 +59,3 @@ This project was built to demonstrate frontend/UI engineering skills for Android
 
 ---
 
-## 📄 License
-
-This project is for portfolio/demonstration purposes.
