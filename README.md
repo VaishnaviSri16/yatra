@@ -19,10 +19,10 @@ Designed with a frontend-first approach, Yatra focuses on delivering a polished 
 
 ## 📱 Screenshots
 
-|<img width="250" height="600" alt="image" src="https://github.com/user-attachments/assets/e91273ce-2f5b-4310-b4b5-f4e183e58138" />
-|<img width="250" height="600" alt="image" src="https://github.com/user-attachments/assets/15cc0ba6-79d3-4822-80b2-e5641e0b0d73" />
-|<img width="250" height="600" alt="image" src="https://github.com/user-attachments/assets/5cfd12f1-6cd3-4193-a673-d3f5266f14eb" />
-||<img width="250" height="600" alt="image" src="https://github.com/user-attachments/assets/d945b88f-a908-4c5b-ad86-e7652e0420b9" />
+|<img width="250" height="500" alt="image" src="https://github.com/user-attachments/assets/e91273ce-2f5b-4310-b4b5-f4e183e58138" />
+|<img width="250" height="500" alt="image" src="https://github.com/user-attachments/assets/15cc0ba6-79d3-4822-80b2-e5641e0b0d73" />
+|<img width="250" height="500" alt="image" src="https://github.com/user-attachments/assets/5cfd12f1-6cd3-4193-a673-d3f5266f14eb" />
+||<img width="250" height="500" alt="image" src="https://github.com/user-attachments/assets/d945b88f-a908-4c5b-ad86-e7652e0420b9" />
 
 
 
