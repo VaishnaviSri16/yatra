@@ -1,6 +1,8 @@
 # Yatra 🇮🇳
 
-A travel discovery app for exploring popular Indian destinations — built entirely with **Kotlin** and **Jetpack Compose** to showcase custom UI design and motion/animation skills for frontend Android development.
+Yatra is a modern Android travel discovery application built entirely with Kotlin and Jetpack Compose. The app allows users to explore popular Indian destinations through an immersive, visually appealing interface featuring smooth animations, custom UI components, and an intuitive booking experience.
+
+Designed with a frontend-first approach, Yatra focuses on delivering a polished user experience while demonstrating advanced Jetpack Compose capabilities such as animated transitions, reusable composables, and custom drawing with Canvas.
 
 
 ---
