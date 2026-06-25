@@ -22,8 +22,10 @@ A travel discovery app for exploring popular Indian destinations — built entir
 |<img width="717" height="1600" alt="image" src="https://github.com/user-attachments/assets/15cc0ba6-79d3-4822-80b2-e5641e0b0d73" />
 |<img width="717" height="1600" alt="image" src="https://github.com/user-attachments/assets/5cfd12f1-6cd3-4193-a673-d3f5266f14eb" />
 ||<img width="1080" height="2408" alt="image" src="https://github.com/user-attachments/assets/d945b88f-a908-4c5b-ad86-e7652e0420b9" />
-|
+| <img src="" width="200"/> | <img src="" width="200"/> | <img src="" width="200"/> |
+
 | ![Home]() | ![Detail]() | ![Confirmation]() |
+
 
 > 🎥 **[→](https://github.com/user-attachments/assets/
 
