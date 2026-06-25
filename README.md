@@ -16,7 +16,7 @@ A travel discovery app for exploring popular Indian destinations — built entir
 ---
 
 ## 📱 Screenshots
-| Home Screen | Destination Detail | Booking Confirmation |
+
 |<img width="250" height="450" alt="image" src="https://github.com/user-attachments/assets/e91273ce-2f5b-4310-b4b5-f4e183e58138" />
 |<img width="250" height="450" alt="image" src="https://github.com/user-attachments/assets/15cc0ba6-79d3-4822-80b2-e5641e0b0d73" />
 |<img width="250" height="450" alt="image" src="https://github.com/user-attachments/assets/5cfd12f1-6cd3-4193-a673-d3f5266f14eb" />
@@ -24,7 +24,8 @@ A travel discovery app for exploring popular Indian destinations — built entir
 
 
 
-> 🎥 **[Watch the demo video here→](https://github.com/user-attachments/assets/https://github.com/user-attachments/assets/552024fe-9ff8-4171-8322-092011abeb7a
+> 🎥 **[Watch the demo video here→](https://github.com/user-attachments/assets/https://github.com/user-attachments/assets
+/552024fe-9ff8-4171-8322-092011abeb7a
 )**
 
 ---
